@@ -25,7 +25,3 @@
 - Email: mr.andrew111@yandex.ru
 
 ---
-
-### 📊 GitHub Stats
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=andrsavi&show_icons=true&theme=dracula)
-
